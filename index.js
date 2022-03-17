@@ -10,3 +10,4 @@ const num3=5
 const num4=24
 let mod=num4 % num3
 let max= Math.max(1,5,9,14,18,20)
+console.log(max)
